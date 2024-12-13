@@ -1,0 +1,241 @@
+ID Year,Year,ID Kaiser Coverage,Kaiser Coverage,ID Age,Age,Health Insurance Policies,Geography,ID Geography,Slug Geography,Share
+2022,"2022",0,"Medicaid",0,"Under 18 Years",853026,"New York, NY","16000US3651000","new-york-ny",33.692564913482265
+2022,"2022",0,"Medicaid",1,"18 to 34 Years",529572,"New York, NY","16000US3651000","new-york-ny",20.91687590573163
+2022,"2022",0,"Medicaid",2,"35 to 64 Years",833460,"New York, NY","16000US3651000","new-york-ny",32.91975291818881
+2022,"2022",0,"Medicaid",3,"65 Years & Over",315735,"New York, NY","16000US3651000","new-york-ny",12.470806262597298
+2022,"2022",1,"Medicare",0,"Under 18 Years",2220,"New York, NY","16000US3651000","new-york-ny",0.27683386850391245
+2022,"2022",1,"Medicare",1,"18 to 34 Years",6764,"New York, NY","16000US3651000","new-york-ny",0.8434703993515603
+2022,"2022",1,"Medicare",2,"35 to 64 Years",52342,"New York, NY","16000US3651000","new-york-ny",6.527044299653957
+2022,"2022",1,"Medicare",3,"65 Years & Over",740599,"New York, NY","16000US3651000","new-york-ny",92.35265143249057
+2022,"2022",2,"Employer",0,"Under 18 Years",708910,"New York, NY","16000US3651000","new-york-ny",19.579617267934818
+2022,"2022",2,"Employer",1,"18 to 34 Years",1098001,"New York, NY","16000US3651000","new-york-ny",30.32604891990478
+2022,"2022",2,"Employer",2,"35 to 64 Years",1750874,"New York, NY","16000US3651000","new-york-ny",48.3579619477481
+2022,"2022",2,"Employer",3,"65 Years & Over",62868,"New York, NY","16000US3651000","new-york-ny",1.7363718644123036
+2022,"2022",3,"OtherPublic",0,"Under 18 Years",2692,"New York, NY","16000US3651000","new-york-ny",10.257582685566224
+2022,"2022",3,"OtherPublic",1,"18 to 34 Years",4249,"New York, NY","16000US3651000","new-york-ny",16.190367322054563
+2022,"2022",3,"OtherPublic",2,"35 to 64 Years",9312,"New York, NY","16000US3651000","new-york-ny",35.48239597622314
+2022,"2022",3,"OtherPublic",3,"65 Years & Over",9991,"New York, NY","16000US3651000","new-york-ny",38.06965401615607
+2022,"2022",4,"NonGroup",0,"Under 18 Years",254512,"New York, NY","16000US3651000","new-york-ny",25.223132436509083
+2022,"2022",4,"NonGroup",1,"18 to 34 Years",248908,"New York, NY","16000US3651000","new-york-ny",24.66775416682358
+2022,"2022",4,"NonGroup",2,"35 to 64 Years",353973,"New York, NY","16000US3651000","new-york-ny",35.080105684401644
+2022,"2022",4,"NonGroup",3,"65 Years & Over",151649,"New York, NY","16000US3651000","new-york-ny",15.029007712265694
+2022,"2022",5,"Uninsured",0,"Under 18 Years",43909,"New York, NY","16000US3651000","new-york-ny",7.630866873011211
+2022,"2022",5,"Uninsured",1,"18 to 34 Years",214485,"New York, NY","16000US3651000","new-york-ny",37.27496598095629
+2022,"2022",5,"Uninsured",2,"35 to 64 Years",295823,"New York, NY","16000US3651000","new-york-ny",51.410552073032754
+2022,"2022",5,"Uninsured",3,"65 Years & Over",21196,"New York, NY","16000US3651000","new-york-ny",3.683615072999741
+2021,"2021",0,"Medicaid",0,"Under 18 Years",861946,"New York, NY","16000US3651000","new-york-ny",34.197149794486855
+2021,"2021",0,"Medicaid",1,"18 to 34 Years",527363,"New York, NY","16000US3651000","new-york-ny",20.92278577436402
+2021,"2021",0,"Medicaid",2,"35 to 64 Years",821985,"New York, NY","16000US3651000","new-york-ny",32.61172297779823
+2021,"2021",0,"Medicaid",3,"65 Years & Over",309226,"New York, NY","16000US3651000","new-york-ny",12.268341453350896
+2021,"2021",1,"Medicare",0,"Under 18 Years",2476,"New York, NY","16000US3651000","new-york-ny",0.30987533650133725
+2021,"2021",1,"Medicare",1,"18 to 34 Years",6497,"New York, NY","16000US3651000","new-york-ny",0.8131098793413523
+2021,"2021",1,"Medicare",2,"35 to 64 Years",55462,"New York, NY","16000US3651000","new-york-ny",6.941157476994009
+2021,"2021",1,"Medicare",3,"65 Years & Over",734596,"New York, NY","16000US3651000","new-york-ny",91.9358573071633
+2021,"2021",2,"Employer",0,"Under 18 Years",734861,"New York, NY","16000US3651000","new-york-ny",19.86348635796124
+2021,"2021",2,"Employer",1,"18 to 34 Years",1114526,"New York, NY","16000US3651000","new-york-ny",30.125931293936002
+2021,"2021",2,"Employer",2,"35 to 64 Years",1788268,"New York, NY","16000US3651000","new-york-ny",48.337354986015896
+2021,"2021",2,"Employer",3,"65 Years & Over",61902,"New York, NY","16000US3651000","new-york-ny",1.673227362086866
+2021,"2021",3,"OtherPublic",0,"Under 18 Years",2971,"New York, NY","16000US3651000","new-york-ny",10.651036065103607
+2021,"2021",3,"OtherPublic",1,"18 to 34 Years",4903,"New York, NY","16000US3651000","new-york-ny",17.577256757725674
+2021,"2021",3,"OtherPublic",2,"35 to 64 Years",9296,"New York, NY","16000US3651000","new-york-ny",33.32616333261633
+2021,"2021",3,"OtherPublic",3,"65 Years & Over",10724,"New York, NY","16000US3651000","new-york-ny",38.445543844554386
+2021,"2021",4,"NonGroup",0,"Under 18 Years",264488,"New York, NY","16000US3651000","new-york-ny",25.853269927226343
+2021,"2021",4,"NonGroup",1,"18 to 34 Years",253301,"New York, NY","16000US3651000","new-york-ny",24.759758952528507
+2021,"2021",4,"NonGroup",2,"35 to 64 Years",360306,"New York, NY","16000US3651000","new-york-ny",35.219322897066085
+2021,"2021",4,"NonGroup",3,"65 Years & Over",144940,"New York, NY","16000US3651000","new-york-ny",14.16764822317907
+2021,"2021",5,"Uninsured",0,"Under 18 Years",46423,"New York, NY","16000US3651000","new-york-ny",7.723226243297515
+2021,"2021",5,"Uninsured",1,"18 to 34 Years",228708,"New York, NY","16000US3651000","new-york-ny",38.04932097563897
+2021,"2021",5,"Uninsured",2,"35 to 64 Years",305252,"New York, NY","16000US3651000","new-york-ny",50.783668811129246
+2021,"2021",5,"Uninsured",3,"65 Years & Over",20700,"New York, NY","16000US3651000","new-york-ny",3.4437839699342687
+2020,"2020",0,"Medicaid",0,"Under 18 Years",817656,"New York, NY","16000US3651000","new-york-ny",34.24397243079954
+2020,"2020",0,"Medicaid",1,"18 to 34 Years",508757,"New York, NY","16000US3651000","new-york-ny",21.30707862716874
+2020,"2020",0,"Medicaid",2,"35 to 64 Years",764674,"New York, NY","16000US3651000","new-york-ny",32.025051335218244
+2020,"2020",0,"Medicaid",3,"65 Years & Over",296650,"New York, NY","16000US3651000","new-york-ny",12.42389760681348
+2020,"2020",1,"Medicare",0,"Under 18 Years",3155,"New York, NY","16000US3651000","new-york-ny",0.41428774023436477
+2020,"2020",1,"Medicare",1,"18 to 34 Years",6410,"New York, NY","16000US3651000","new-york-ny",0.8417066291290897
+2020,"2020",1,"Medicare",2,"35 to 64 Years",52674,"New York, NY","16000US3651000","new-york-ny",6.91670124535814
+2020,"2020",1,"Medicare",3,"65 Years & Over",699309,"New York, NY","16000US3651000","new-york-ny",91.82730438527841
+2020,"2020",2,"Employer",0,"Under 18 Years",707339,"New York, NY","16000US3651000","new-york-ny",19.737408991926888
+2020,"2020",2,"Employer",1,"18 to 34 Years",1102607,"New York, NY","16000US3651000","new-york-ny",30.766867536445087
+2020,"2020",2,"Employer",2,"35 to 64 Years",1716891,"New York, NY","16000US3651000","new-york-ny",47.90769328646992
+2020,"2020",2,"Employer",3,"65 Years & Over",56911,"New York, NY","16000US3651000","new-york-ny",1.5880301851581082
+2020,"2020",3,"OtherPublic",0,"Under 18 Years",3162,"New York, NY","16000US3651000","new-york-ny",11.543937789784966
+2020,"2020",3,"OtherPublic",1,"18 to 34 Years",5335,"New York, NY","16000US3651000","new-york-ny",19.477200540323462
+2020,"2020",3,"OtherPublic",2,"35 to 64 Years",9064,"New York, NY","16000US3651000","new-york-ny",33.09116133036399
+2020,"2020",3,"OtherPublic",3,"65 Years & Over",9830,"New York, NY","16000US3651000","new-york-ny",35.88770033952758
+2020,"2020",4,"NonGroup",0,"Under 18 Years",248017,"New York, NY","16000US3651000","new-york-ny",25.460176546009443
+2020,"2020",4,"NonGroup",1,"18 to 34 Years",250187,"New York, NY","16000US3651000","new-york-ny",25.682937820860925
+2020,"2020",4,"NonGroup",2,"35 to 64 Years",340230,"New York, NY","16000US3651000","new-york-ny",34.92629886761308
+2020,"2020",4,"NonGroup",3,"65 Years & Over",135703,"New York, NY","16000US3651000","new-york-ny",13.930586765516553
+2020,"2020",5,"Uninsured",0,"Under 18 Years",43145,"New York, NY","16000US3651000","new-york-ny",7.444479145278205
+2020,"2020",5,"Uninsured",1,"18 to 34 Years",231671,"New York, NY","16000US3651000","new-york-ny",39.97380758061761
+2020,"2020",5,"Uninsured",2,"35 to 64 Years",287208,"New York, NY","16000US3651000","new-york-ny",49.55647158087988
+2020,"2020",5,"Uninsured",3,"65 Years & Over",17533,"New York, NY","16000US3651000","new-york-ny",3.0252416932243076
+2019,"2019",0,"Medicaid",0,"Under 18 Years",847930,"New York, NY","16000US3651000","new-york-ny",34.84468180234202
+2019,"2019",0,"Medicaid",1,"18 to 34 Years",517316,"New York, NY","16000US3651000","new-york-ny",21.258489982970723
+2019,"2019",0,"Medicaid",2,"35 to 64 Years",768422,"New York, NY","16000US3651000","new-york-ny",31.57739445463571
+2019,"2019",0,"Medicaid",3,"65 Years & Over",299788,"New York, NY","16000US3651000","new-york-ny",12.319433760051549
+2019,"2019",1,"Medicare",0,"Under 18 Years",3435,"New York, NY","16000US3651000","new-york-ny",0.4629835549858679
+2019,"2019",1,"Medicare",1,"18 to 34 Years",6638,"New York, NY","16000US3651000","new-york-ny",0.8946971871895754
+2019,"2019",1,"Medicare",2,"35 to 64 Years",55244,"New York, NY","16000US3651000","new-york-ny",7.446015578352048
+2019,"2019",1,"Medicare",3,"65 Years & Over",676610,"New York, NY","16000US3651000","new-york-ny",91.1963036794725
+2019,"2019",2,"Employer",0,"Under 18 Years",705248,"New York, NY","16000US3651000","new-york-ny",19.69550564182536
+2019,"2019",2,"Employer",1,"18 to 34 Years",1103967,"New York, NY","16000US3651000","new-york-ny",30.830556452324593
+2019,"2019",2,"Employer",2,"35 to 64 Years",1718091,"New York, NY","16000US3651000","new-york-ny",47.98123636461128
+2019,"2019",2,"Employer",3,"65 Years & Over",53450,"New York, NY","16000US3651000","new-york-ny",1.4927015412387774
+2019,"2019",3,"OtherPublic",0,"Under 18 Years",2831,"New York, NY","16000US3651000","new-york-ny",10.14331780723755
+2019,"2019",3,"OtherPublic",1,"18 to 34 Years",5224,"New York, NY","16000US3651000","new-york-ny",18.717305625223936
+2019,"2019",3,"OtherPublic",2,"35 to 64 Years",9770,"New York, NY","16000US3651000","new-york-ny",35.00537441777141
+2019,"2019",3,"OtherPublic",3,"65 Years & Over",10085,"New York, NY","16000US3651000","new-york-ny",36.134002149767106
+2019,"2019",4,"NonGroup",0,"Under 18 Years",236925,"New York, NY","16000US3651000","new-york-ny",25.19267331028059
+2019,"2019",4,"NonGroup",1,"18 to 34 Years",243411,"New York, NY","16000US3651000","new-york-ny",25.882341682510113
+2019,"2019",4,"NonGroup",2,"35 to 64 Years",329849,"New York, NY","16000US3651000","new-york-ny",35.073454041248254
+2019,"2019",4,"NonGroup",3,"65 Years & Over",130267,"New York, NY","16000US3651000","new-york-ny",13.851530965961048
+2019,"2019",5,"Uninsured",0,"Under 18 Years",43724,"New York, NY","16000US3651000","new-york-ny",6.939249036259497
+2019,"2019",5,"Uninsured",1,"18 to 34 Years",257906,"New York, NY","16000US3651000","new-york-ny",40.93115821849651
+2019,"2019",5,"Uninsured",2,"35 to 64 Years",311842,"New York, NY","16000US3651000","new-york-ny",49.491110098921276
+2019,"2019",5,"Uninsured",3,"65 Years & Over",16625,"New York, NY","16000US3651000","new-york-ny",2.638482646322709
+2018,"2018",0,"Medicaid",0,"Under 18 Years",862614,"New York, NY","16000US3651000","new-york-ny",35.35952502754604
+2018,"2018",0,"Medicaid",1,"18 to 34 Years",518599,"New York, NY","16000US3651000","new-york-ny",21.2579604779894
+2018,"2018",0,"Medicaid",2,"35 to 64 Years",765937,"New York, NY","16000US3651000","new-york-ny",31.39662528201899
+2018,"2018",0,"Medicaid",3,"65 Years & Over",292402,"New York, NY","16000US3651000","new-york-ny",11.985889212445564
+2018,"2018",1,"Medicare",0,"Under 18 Years",4823,"New York, NY","16000US3651000","new-york-ny",0.6624190174552836
+2018,"2018",1,"Medicare",1,"18 to 34 Years",7360,"New York, NY","16000US3651000","new-york-ny",1.0108654299131012
+2018,"2018",1,"Medicare",2,"35 to 64 Years",56625,"New York, NY","16000US3651000","new-york-ny",7.7772085555474675
+2018,"2018",1,"Medicare",3,"65 Years & Over",659281,"New York, NY","16000US3651000","new-york-ny",90.54950699708415
+2018,"2018",2,"Employer",0,"Under 18 Years",704682,"New York, NY","16000US3651000","new-york-ny",19.789590864260216
+2018,"2018",2,"Employer",1,"18 to 34 Years",1094506,"New York, NY","16000US3651000","new-york-ny",30.73702171827575
+2018,"2018",2,"Employer",2,"35 to 64 Years",1711681,"New York, NY","16000US3651000","new-york-ny",48.06915272438886
+2018,"2018",2,"Employer",3,"65 Years & Over",50003,"New York, NY","16000US3651000","new-york-ny",1.4042346930751795
+2018,"2018",3,"OtherPublic",0,"Under 18 Years",2957,"New York, NY","16000US3651000","new-york-ny",10.099043715846994
+2018,"2018",3,"OtherPublic",1,"18 to 34 Years",5580,"New York, NY","16000US3651000","new-york-ny",19.057377049180328
+2018,"2018",3,"OtherPublic",2,"35 to 64 Years",10280,"New York, NY","16000US3651000","new-york-ny",35.10928961748634
+2018,"2018",3,"OtherPublic",3,"65 Years & Over",10463,"New York, NY","16000US3651000","new-york-ny",35.73428961748634
+2018,"2018",4,"NonGroup",0,"Under 18 Years",230600,"New York, NY","16000US3651000","new-york-ny",25.219881053154236
+2018,"2018",4,"NonGroup",1,"18 to 34 Years",236794,"New York, NY","16000US3651000","new-york-ny",25.897296245015628
+2018,"2018",4,"NonGroup",2,"35 to 64 Years",321167,"New York, NY","16000US3651000","new-york-ny",35.12486356547436
+2018,"2018",4,"NonGroup",3,"65 Years & Over",125797,"New York, NY","16000US3651000","new-york-ny",13.757959136355783
+2018,"2018",5,"Uninsured",0,"Under 18 Years",49352,"New York, NY","16000US3651000","new-york-ny",6.973142831306236
+2018,"2018",5,"Uninsured",1,"18 to 34 Years",295380,"New York, NY","16000US3651000","new-york-ny",41.73542975991319
+2018,"2018",5,"Uninsured",2,"35 to 64 Years",345968,"New York, NY","16000US3651000","new-york-ny",48.88321200886196
+2018,"2018",5,"Uninsured",3,"65 Years & Over",17044,"New York, NY","16000US3651000","new-york-ny",2.4082153999186144
+2017,"2017",0,"Medicaid",0,"Under 18 Years",880236,"New York, NY","16000US3651000","new-york-ny",36.02746521416679
+2017,"2017",0,"Medicaid",1,"18 to 34 Years",520320,"New York, NY","16000US3651000","new-york-ny",21.296346321026704
+2017,"2017",0,"Medicaid",2,"35 to 64 Years",754504,"New York, NY","16000US3651000","new-york-ny",30.881339338483883
+2017,"2017",0,"Medicaid",3,"65 Years & Over",288176,"New York, NY","16000US3651000","new-york-ny",11.794849126322632
+2017,"2017",1,"Medicare",0,"Under 18 Years",7003,"New York, NY","16000US3651000","new-york-ny",0.9700776145205506
+2017,"2017",1,"Medicare",1,"18 to 34 Years",7736,"New York, NY","16000US3651000","new-york-ny",1.0716150829545878
+2017,"2017",1,"Medicare",2,"35 to 64 Years",58831,"New York, NY","16000US3651000","new-york-ny",8.149455396238542
+2017,"2017",1,"Medicare",3,"65 Years & Over",648331,"New York, NY","16000US3651000","new-york-ny",89.80885190628632
+2017,"2017",2,"Employer",0,"Under 18 Years",717723,"New York, NY","16000US3651000","new-york-ny",19.95318921088875
+2017,"2017",2,"Employer",1,"18 to 34 Years",1102073,"New York, NY","16000US3651000","new-york-ny",30.638381510989333
+2017,"2017",2,"Employer",2,"35 to 64 Years",1729390,"New York, NY","16000US3651000","new-york-ny",48.07822222419916
+2017,"2017",2,"Employer",3,"65 Years & Over",47848,"New York, NY","16000US3651000","new-york-ny",1.3302070539227597
+2017,"2017",3,"OtherPublic",0,"Under 18 Years",2929,"New York, NY","16000US3651000","new-york-ny",10.012306009434607
+2017,"2017",3,"OtherPublic",1,"18 to 34 Years",6163,"New York, NY","16000US3651000","new-york-ny",21.067204484856774
+2017,"2017",3,"OtherPublic",2,"35 to 64 Years",10006,"New York, NY","16000US3651000","new-york-ny",34.20386955629999
+2017,"2017",3,"OtherPublic",3,"65 Years & Over",10156,"New York, NY","16000US3651000","new-york-ny",34.71661994940863
+2017,"2017",4,"NonGroup",0,"Under 18 Years",222405,"New York, NY","16000US3651000","new-york-ny",25.42265354411714
+2017,"2017",4,"NonGroup",1,"18 to 34 Years",227041,"New York, NY","16000US3651000","new-york-ny",25.952585073671457
+2017,"2017",4,"NonGroup",2,"35 to 64 Years",302151,"New York, NY","16000US3651000","new-york-ny",34.53825314632557
+2017,"2017",4,"NonGroup",3,"65 Years & Over",123233,"New York, NY","16000US3651000","new-york-ny",14.086508235885828
+2017,"2017",5,"Uninsured",0,"Under 18 Years",56572,"New York, NY","16000US3651000","new-york-ny",6.807865411923271
+2017,"2017",5,"Uninsured",1,"18 to 34 Years",356171,"New York, NY","16000US3651000","new-york-ny",42.86156104840068
+2017,"2017",5,"Uninsured",2,"35 to 64 Years",401117,"New York, NY","16000US3651000","new-york-ny",48.2703554838865
+2017,"2017",5,"Uninsured",3,"65 Years & Over",17120,"New York, NY","16000US3651000","new-york-ny",2.0602180557895498
+2016,"2016",0,"Medicaid",0,"Under 18 Years",851818,"New York, NY","16000US3651000","new-york-ny",35.62526923318208
+2016,"2016",0,"Medicaid",1,"18 to 34 Years",541910,"New York, NY","16000US3651000","new-york-ny",22.66410154534619
+2016,"2016",0,"Medicaid",2,"35 to 64 Years",727909,"New York, NY","16000US3651000","new-york-ny",30.443068944605926
+2016,"2016",0,"Medicaid",3,"65 Years & Over",269413,"New York, NY","16000US3651000","new-york-ny",11.267560276865812
+2016,"2016",1,"Medicare",0,"Under 18 Years",7584,"New York, NY","16000US3651000","new-york-ny",1.10376304023845
+2016,"2016",1,"Medicare",1,"18 to 34 Years",8705,"New York, NY","16000US3651000","new-york-ny",1.2669115592399405
+2016,"2016",1,"Medicare",2,"35 to 64 Years",60549,"New York, NY","16000US3651000","new-york-ny",8.81220310171386
+2016,"2016",1,"Medicare",3,"65 Years & Over",610266,"New York, NY","16000US3651000","new-york-ny",88.81712229880775
+2016,"2016",2,"Employer",0,"Under 18 Years",684903,"New York, NY","16000US3651000","new-york-ny",19.209941669235366
+2016,"2016",2,"Employer",1,"18 to 34 Years",1117574,"New York, NY","16000US3651000","new-york-ny",31.345360366437358
+2016,"2016",2,"Employer",2,"35 to 64 Years",1719034,"New York, NY","16000US3651000","new-york-ny",48.214919291392135
+2016,"2016",2,"Employer",3,"65 Years & Over",43846,"New York, NY","16000US3651000","new-york-ny",1.2297786729351368
+2016,"2016",3,"OtherPublic",0,"Under 18 Years",2611,"New York, NY","16000US3651000","new-york-ny",9.110893991206643
+2016,"2016",3,"OtherPublic",1,"18 to 34 Years",6004,"New York, NY","16000US3651000","new-york-ny",20.950519924628374
+2016,"2016",3,"OtherPublic",2,"35 to 64 Years",10421,"New York, NY","16000US3651000","new-york-ny",36.36331914299672
+2016,"2016",3,"OtherPublic",3,"65 Years & Over",9622,"New York, NY","16000US3651000","new-york-ny",33.57526694116826
+2016,"2016",4,"NonGroup",0,"Under 18 Years",189624,"New York, NY","16000US3651000","new-york-ny",23.642033107125002
+2016,"2016",4,"NonGroup",1,"18 to 34 Years",220634,"New York, NY","16000US3651000","new-york-ny",27.508312938011102
+2016,"2016",4,"NonGroup",2,"35 to 64 Years",275189,"New York, NY","16000US3651000","new-york-ny",34.310147706601605
+2016,"2016",4,"NonGroup",3,"65 Years & Over",116616,"New York, NY","16000US3651000","new-york-ny",14.539506248262294
+2016,"2016",5,"Uninsured",0,"Under 18 Years",55441,"New York, NY","16000US3651000","new-york-ny",5.991710751706212
+2016,"2016",5,"Uninsured",1,"18 to 34 Years",409256,"New York, NY","16000US3651000","new-york-ny",44.22978617630053
+2016,"2016",5,"Uninsured",2,"35 to 64 Years",443735,"New York, NY","16000US3651000","new-york-ny",47.9560572574152
+2016,"2016",5,"Uninsured",3,"65 Years & Over",16863,"New York, NY","16000US3651000","new-york-ny",1.8224458145780535
+2015,"2015",0,"Medicaid",0,"Under 18 Years",851211,"New York, NY","16000US3651000","new-york-ny",36.40429284548562
+2015,"2015",0,"Medicaid",1,"18 to 34 Years",521279,"New York, NY","16000US3651000","new-york-ny",22.29387704129986
+2015,"2015",0,"Medicaid",2,"35 to 64 Years",702780,"New York, NY","16000US3651000","new-york-ny",30.056248011304344
+2015,"2015",0,"Medicaid",3,"65 Years & Over",262946,"New York, NY","16000US3651000","new-york-ny",11.245582101910175
+2015,"2015",1,"Medicare",0,"Under 18 Years",7502,"New York, NY","16000US3651000","new-york-ny",1.1191202181553461
+2015,"2015",1,"Medicare",1,"18 to 34 Years",8191,"New York, NY","16000US3651000","new-york-ny",1.221902653547113
+2015,"2015",1,"Medicare",2,"35 to 64 Years",62691,"New York, NY","16000US3651000","new-york-ny",9.352008210660731
+2015,"2015",1,"Medicare",3,"65 Years & Over",591964,"New York, NY","16000US3651000","new-york-ny",88.30696891763681
+2015,"2015",2,"Employer",0,"Under 18 Years",686188,"New York, NY","16000US3651000","new-york-ny",19.37201612236146
+2015,"2015",2,"Employer",1,"18 to 34 Years",1102710,"New York, NY","16000US3651000","new-york-ny",31.130996021919955
+2015,"2015",2,"Employer",2,"35 to 64 Years",1711073,"New York, NY","16000US3651000","new-york-ny",48.30590704375097
+2015,"2015",2,"Employer",3,"65 Years & Over",42190,"New York, NY","16000US3651000","new-york-ny",1.1910808119676095
+2015,"2015",3,"OtherPublic",0,"Under 18 Years",2445,"New York, NY","16000US3651000","new-york-ny",8.539396479463537
+2015,"2015",3,"OtherPublic",1,"18 to 34 Years",5908,"New York, NY","16000US3651000","new-york-ny",20.634255378597373
+2015,"2015",3,"OtherPublic",2,"35 to 64 Years",10749,"New York, NY","16000US3651000","new-york-ny",37.541911148365465
+2015,"2015",3,"OtherPublic",3,"65 Years & Over",9530,"New York, NY","16000US3651000","new-york-ny",33.28443699357362
+2015,"2015",4,"NonGroup",0,"Under 18 Years",177908,"New York, NY","16000US3651000","new-york-ny",23.81878721099765
+2015,"2015",4,"NonGroup",1,"18 to 34 Years",199028,"New York, NY","16000US3651000","new-york-ny",26.646387914149116
+2015,"2015",4,"NonGroup",2,"35 to 64 Years",255654,"New York, NY","16000US3651000","new-york-ny",34.227624534255874
+2015,"2015",4,"NonGroup",3,"65 Years & Over",114333,"New York, NY","16000US3651000","new-york-ny",15.307200340597356
+2015,"2015",5,"Uninsured",0,"Under 18 Years",64257,"New York, NY","16000US3651000","new-york-ny",6.187881163252708
+2015,"2015",5,"Uninsured",1,"18 to 34 Years",467024,"New York, NY","16000US3651000","new-york-ny",44.97391743136052
+2015,"2015",5,"Uninsured",2,"35 to 64 Years",488575,"New York, NY","16000US3651000","new-york-ny",47.04925594621896
+2015,"2015",5,"Uninsured",3,"65 Years & Over",18577,"New York, NY","16000US3651000","new-york-ny",1.7889454591678038
+2014,"2014",0,"Medicaid",0,"Under 18 Years",838671,"New York, NY","16000US3651000","new-york-ny",37.178478382584956
+2014,"2014",0,"Medicaid",1,"18 to 34 Years",498499,"New York, NY","16000US3651000","new-york-ny",22.098575359396257
+2014,"2014",0,"Medicaid",2,"35 to 64 Years",668017,"New York, NY","16000US3651000","new-york-ny",29.613347300311155
+2014,"2014",0,"Medicaid",3,"65 Years & Over",250610,"New York, NY","16000US3651000","new-york-ny",11.10959895770763
+2014,"2014",1,"Medicare",0,"Under 18 Years",7181,"New York, NY","16000US3651000","new-york-ny",1.0957002044615338
+2014,"2014",1,"Medicare",1,"18 to 34 Years",7942,"New York, NY","16000US3651000","new-york-ny",1.2118160456529037
+2014,"2014",1,"Medicare",2,"35 to 64 Years",60855,"New York, NY","16000US3651000","new-york-ny",9.285452714455737
+2014,"2014",1,"Medicare",3,"65 Years & Over",579402,"New York, NY","16000US3651000","new-york-ny",88.40703103542982
+2014,"2014",2,"Employer",0,"Under 18 Years",690212,"New York, NY","16000US3651000","new-york-ny",19.63095470709515
+2014,"2014",2,"Employer",1,"18 to 34 Years",1083395,"New York, NY","16000US3651000","new-york-ny",30.813834263810758
+2014,"2014",2,"Employer",2,"35 to 64 Years",1702759,"New York, NY","16000US3651000","new-york-ny",48.42973580015797
+2014,"2014",2,"Employer",3,"65 Years & Over",39571,"New York, NY","16000US3651000","new-york-ny",1.1254752289361272
+2014,"2014",3,"OtherPublic",0,"Under 18 Years",3007,"New York, NY","16000US3651000","new-york-ny",10.33049333516559
+2014,"2014",3,"OtherPublic",1,"18 to 34 Years",5431,"New York, NY","16000US3651000","new-york-ny",18.65810086574138
+2014,"2014",3,"OtherPublic",2,"35 to 64 Years",11153,"New York, NY","16000US3651000","new-york-ny",38.315926892950394
+2014,"2014",3,"OtherPublic",3,"65 Years & Over",9517,"New York, NY","16000US3651000","new-york-ny",32.69547890614264
+2014,"2014",4,"NonGroup",0,"Under 18 Years",172751,"New York, NY","16000US3651000","new-york-ny",24.196309016241894
+2014,"2014",4,"NonGroup",1,"18 to 34 Years",182537,"New York, NY","16000US3651000","new-york-ny",25.56698171876138
+2014,"2014",4,"NonGroup",2,"35 to 64 Years",242425,"New York, NY","16000US3651000","new-york-ny",33.9551737081837
+2014,"2014",4,"NonGroup",3,"65 Years & Over",116243,"New York, NY","16000US3651000","new-york-ny",16.281535556813026
+2014,"2014",5,"Uninsured",0,"Under 18 Years",71358,"New York, NY","16000US3651000","new-york-ny",6.371397907451423
+2014,"2014",5,"Uninsured",1,"18 to 34 Years",511097,"New York, NY","16000US3651000","new-york-ny",45.63472009171641
+2014,"2014",5,"Uninsured",2,"35 to 64 Years",518966,"New York, NY","16000US3651000","new-york-ny",46.337325687917755
+2014,"2014",5,"Uninsured",3,"65 Years & Over",18553,"New York, NY","16000US3651000","new-york-ny",1.656556312914407
+2013,"2013",0,"Medicaid",0,"Under 18 Years",822940,"New York, NY","16000US3651000","new-york-ny",37.860204229978635
+2013,"2013",0,"Medicaid",1,"18 to 34 Years",472976,"New York, NY","16000US3651000","new-york-ny",21.759749138307015
+2013,"2013",0,"Medicaid",2,"35 to 64 Years",638855,"New York, NY","16000US3651000","new-york-ny",29.391183772016188
+2013,"2013",0,"Medicaid",3,"65 Years & Over",238857,"New York, NY","16000US3651000","new-york-ny",10.988862859698163
+2013,"2013",1,"Medicare",0,"Under 18 Years",6192,"New York, NY","16000US3651000","new-york-ny",0.9649188420973894
+2013,"2013",1,"Medicare",1,"18 to 34 Years",7450,"New York, NY","16000US3651000","new-york-ny",1.160956940185005
+2013,"2013",1,"Medicare",2,"35 to 64 Years",59385,"New York, NY","16000US3651000","new-york-ny",9.254151395018326
+2013,"2013",1,"Medicare",3,"65 Years & Over",568685,"New York, NY","16000US3651000","new-york-ny",88.61997282269928
+2013,"2013",2,"Employer",0,"Under 18 Years",699437,"New York, NY","16000US3651000","new-york-ny",19.94412859832186
+2013,"2013",2,"Employer",1,"18 to 34 Years",1065757,"New York, NY","16000US3651000","new-york-ny",30.38957713498387
+2013,"2013",2,"Employer",2,"35 to 64 Years",1704105,"New York, NY","16000US3651000","new-york-ny",48.591780625050255
+2013,"2013",2,"Employer",3,"65 Years & Over",37683,"New York, NY","16000US3651000","new-york-ny",1.074513641644012
+2013,"2013",3,"OtherPublic",0,"Under 18 Years",2815,"New York, NY","16000US3651000","new-york-ny",9.762441477371251
+2013,"2013",3,"OtherPublic",1,"18 to 34 Years",5007,"New York, NY","16000US3651000","new-york-ny",17.364314201491243
+2013,"2013",3,"OtherPublic",2,"35 to 64 Years",11416,"New York, NY","16000US3651000","new-york-ny",39.59077509970522
+2013,"2013",3,"OtherPublic",3,"65 Years & Over",9597,"New York, NY","16000US3651000","new-york-ny",33.28246922143229
+2013,"2013",4,"NonGroup",0,"Under 18 Years",167376,"New York, NY","16000US3651000","new-york-ny",24.028321307879377
+2013,"2013",4,"NonGroup",1,"18 to 34 Years",175353,"New York, NY","16000US3651000","new-york-ny",25.173490980191737
+2013,"2013",4,"NonGroup",2,"35 to 64 Years",236256,"New York, NY","16000US3651000","new-york-ny",33.91666116357393
+2013,"2013",4,"NonGroup",3,"65 Years & Over",117593,"New York, NY","16000US3651000","new-york-ny",16.88152654835496
+2013,"2013",5,"Uninsured",0,"Under 18 Years",75880,"New York, NY","16000US3651000","new-york-ny",6.569560459349763
+2013,"2013",5,"Uninsured",1,"18 to 34 Years",540092,"New York, NY","16000US3651000","new-york-ny",46.760240479851504
+2013,"2013",5,"Uninsured",2,"35 to 64 Years",520788,"New York, NY","16000US3651000","new-york-ny",45.088933216972116
+2013,"2013",5,"Uninsured",3,"65 Years & Over",18264,"New York, NY","16000US3651000","new-york-ny",1.5812658438266218
